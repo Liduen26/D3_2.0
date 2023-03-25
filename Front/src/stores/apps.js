@@ -26,7 +26,7 @@ export const appsStored = ref({
             admin: false,
             content: "iFrame",
             props: {
-                url: "http://outofspace.fr/RafineryCalcJsPTU/",
+                url: "https://refinery.outofspace.fr/",
             }
         }
     },
